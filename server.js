@@ -9,7 +9,7 @@ const path = require('path');
 
 const corsOptions = {
   credentials: true,
-  origin: ["https://lionfish-app-e9bfo.ondigitalocean.app" , "https://frontend-3l6x8.ondigitalocean.app"],
+  origin: ["https://frontend-qbovt.ondigitalocean.app"],
 };
 
 
